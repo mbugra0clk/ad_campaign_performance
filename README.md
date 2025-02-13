@@ -66,5 +66,3 @@ Projeye katkıda bulunmak istiyorsanız, lütfen **pull request** oluşturun vey
 Herhangi bir sorunuz veya öneriniz varsa, benimle GitHub üzerinden iletişime geçebilirsiniz.
 
 ---
-💡 **Not:** Bu proje, sosyal medya kampanyalarını analiz etmek ve viral içerikleri belirlemek için oluşturulmuştur.
-
