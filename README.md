@@ -26,7 +26,7 @@ Bu proje, sosyal medya reklam kampanyalarının performansını analiz ederek **
 - Viral içerikler belirlenerek kampanya başarısı ölçüldü.
 - Engagement Rate yüksek olan içeriklerin belirli özellikleri incelendi.
 - Viral içerik oranı ve dağılımı analiz edildi.
-- 
+- Sonuç olarak %75 lik viral video oluşurulmuş.
 ![Figure_2](https://github.com/user-attachments/assets/1353a945-5801-4504-bf11-6ee9749d8563)
 
 
